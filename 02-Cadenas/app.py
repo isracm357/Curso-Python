@@ -1,0 +1,6 @@
+print("Hola "+" "+" "+" José")
+print("Me llamo \"José\"")
+print("Esta es una línea \nY esta es otra línea")
+print("\tEsta es la tercera línea")
+print("This isn\'nt a number")
+print("Esta signo \\ es una barra invertida")
