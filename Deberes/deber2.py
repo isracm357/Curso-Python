@@ -5,7 +5,7 @@ cuenta=int(input("¿Cuántas personas para dividir la cuenta? "))
 
 porcentaje_propina=factura/cuenta*propina/100
 print(f"Factura por persona: {factura/cuenta}")
-print(f"Propina: {factura/cuenta*propina/100}")
+print(f"Propina: {porcentaje_propina}")
 
 
 total_por_persona= factura/cuenta+porcentaje_propina
