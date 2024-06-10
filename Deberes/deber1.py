@@ -18,6 +18,6 @@ x=comisiónTotal
 print(f"Su Comisión es de: {x*0.13}")
 
 
-print("Nombre y monto correspondiente por las comisiones: "+(input("Nombre: ")+(input(f"Su Comisión es de: {x*0.13}"))))
+print("Nombre y monto correspondiente por las comisiones: " + input("Nombre: ") + input(f"Su Comisión es de: {x*0.13}"))
 
 
